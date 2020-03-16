@@ -1,0 +1,25 @@
+{
+    "name": "extension-pack-name",
+    "displayName": "extension-pack-display-name",
+    "description": "extension-pack-description",
+    "version": "0.0.1",
+    "publisher": "publisher-name",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "url-for-repo"
+    },
+    "icon": "path-to-icon",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+      },
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}

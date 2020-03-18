@@ -1,5 +1,4 @@
 <div align="center">
-  <br>
   <img alt="Remote work pack" src="./images/remote-work-pack.png" >
 </div>
 <br>

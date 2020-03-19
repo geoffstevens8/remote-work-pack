@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Remote work pack" src="resources/remote-work-pack.png" >
+  <img alt="Remote work pack" src="https://raw.githubusercontent.com/geoffstevens8/remote-work-pack/master/resources/remote-work-pack.png" >
 </div>
 <br>
 

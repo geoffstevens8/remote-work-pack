@@ -127,9 +127,9 @@ Looking for other resources to level up your remote work? Check out these guides
 * [State of Remote Work 2020](https://lp.buffer.com/state-of-remote-work-2020) - *Buffer*
 * [Remote Work 2020](https://remotework2020.remote.tools/) - *Flexiple*
 
-## About Us
+## About Me
 
-At [Software](https://www.software.com/), we're building  productivity tools that help you protect your code time, avoid context switching, improve your work-life balance, and more. We're the creators behind Code Time and Music Time. 
+I work at [Software](https://www.software.com/), where we're building  productivity tools that help you protect your code time, avoid context switching, improve your work-life balance, and more. We're the creators behind Code Time. 
 
 <br>
 

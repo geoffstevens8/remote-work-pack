@@ -2,7 +2,7 @@
     "name": "remote-work-pack",
     "displayName": "Remote Work Pack",
     "description": "Best tools for remote work",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "thegeoffstevens",
     "engines": {
         "vscode": "^1.35.0"
@@ -14,10 +14,10 @@
         "type": "git",
         "url": "https://github.com/geoffstevens8/remote-work-pack"
     },
-    "icon": "path-to-icon",
+    "icon": "resources/icon.png",
     "galleryBanner": {
-        "color": "#000000",
-        "theme": "dark"
+        "color": "#ffffff",
+        "theme": "light"
       },
     "extensionPack": [ 
         "softwaredotcom.swdc-vscode", 

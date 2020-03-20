@@ -3,7 +3,7 @@
 </div>
 <br>
 
-Remote work requires communication, collaboration, and discipline. Equipped with the right tools, you can make the most of your time working at home. The Remote Work Packs brings together some of the best extensions for Visual Studio Code to help your remote team be more productive—from anywhere in the world. 
+Remote work requires communication, collaboration, and discipline. Equipped with the right tools, you can make the most of your time working at home. The [Remote Work Pack](https://marketplace.visualstudio.com/items?itemName=thegeoffstevens.remote-work-pack) brings together some of the best extensions for Visual Studio Code to help your remote team be more productive—from anywhere in the world. 
 
 ## [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
 
@@ -77,7 +77,7 @@ Live Share Audio enhances the Live Share experience by adding audio calls to Liv
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/vsls-contrib.gistfs.svg?style=flat-square&color=8F1BB2&labelColor=5E1BB2)](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/vsls-contrib.gistfs.svg?style=flat-square&color=8F1BB2&labelColor=5E1BB2)](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
- GistPad helps you manage and share code snippets, notes and interactive samples using GitHub Gists. You can open, create, delete, fork, star and clone gists. Additionally, you can collaborate with your friends and colleagues by "following" them, so that you can access, browse, and comment on their gists, righ in Visual Studio Code.
+ GistPad helps you manage and share code snippets, notes and interactive samples using GitHub Gists. You can open, create, delete, fork, star and clone gists. Additionally, you can collaborate with your friends and colleagues by "following" them, so that you can access, browse, and comment on their gists, right in Visual Studio Code.
 
 **Why it's great for remote work:** Gists make it easy to casually share code, notes, task lists, ideas, and more with your remote team. GistPad brings the power of this informal collaboration to Visual Studio Code. You can also keep a personal todo list or daily journal to stay focused and productive. 
 
